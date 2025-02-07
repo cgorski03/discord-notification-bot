@@ -1,0 +1,49 @@
+{
+  "app_permissions": "180224",
+  "application_id": "1215372553883746405",
+  "channel": {
+    "flags": 0,
+    "id": "1215854995807932448",
+    "last_message_id": "1215855003072200804",
+    "recipients": [
+      {
+        "avatar": "38ef62e187a2b3c71d96aebdd6d5be68",
+        "avatar_decoration_data": "None",
+        "discriminator": "0",
+        "global_name": "colin gorski",
+        "id": "234834035401031680",
+        "public_flags": 64,
+        "username": "cpgorski"
+      }
+    ],
+    "type": 1
+  },
+  "channel_id": "1215854995807932448",
+  "data": {
+    "id": "1215817595954004021",
+    "name": "verify",
+    "options": [
+      {
+        "name": "id",
+        "type": 3,
+        "value": "43223"
+      }
+    ],
+    "type": 1
+  },
+  "entitlements": [],
+  "id": "1215855019044376606",
+  "locale": "en-US",
+  "token": "aW50ZXJhY3Rpb246MTIxNTg1NTAxOTA0NDM3NjYwNjowNjRsNlE1anRJSFBJTVoxcjBkRDFTT1NXSTZGWWlwNjhFdWI3TzluM01aeWtKV1JNWjF3ZTNKT24weURwMFNWRTd5T0lVeUF6d0V0RlR6ZFBSUUJTckRGc1VRS2RYY1VHMUR3aHZLNHo5TUQ2MUlLQVFrb3hrWFQwbE5yZHJPYg",
+  "type": 2,
+  "user": {
+    "avatar": "38ef62e187a2b3c71d96aebdd6d5be68",
+    "avatar_decoration_data": "None",
+    "discriminator": "0",
+    "global_name": "colin gorski",
+    "id": "234834035401031680",
+    "public_flags": 64,
+    "username": "cpgorski"
+  },
+  "version": 1
+}
